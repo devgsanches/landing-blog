@@ -1,0 +1,1 @@
+## Boilerplate para projetos NextJS
