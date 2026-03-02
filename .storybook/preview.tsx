@@ -22,7 +22,7 @@ const preview: Preview = {
   },
   decorators: [
     (Story) => (
-      <div className="min-h-screen bg-sidebar text-sidebar-foreground">
+      <div className="min-h-screen bg-gray-700 text-sidebar-foreground">
         <Story />
       </div>
     )
